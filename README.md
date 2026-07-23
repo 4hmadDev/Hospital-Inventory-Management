@@ -123,6 +123,7 @@ Through this project, I practiced:
 Python Developer | AI Enthusiast | Automation & Data Analysis
 
 GitHub: https://github.com/4hmadDev
+Linkedin : https://www.linkedin.com/in/ahmadarfeen
 
 ---
 
